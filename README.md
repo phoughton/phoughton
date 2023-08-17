@@ -6,9 +6,7 @@ I'm a geek with and when I'm not being paid to write, tinker with or test softwa
 
 Here's a few of my more interesting bits of code:
 
-![A Pandas based animation of a changing rolling mean]( | width=300)
-<img src="https://github.com/phoughton/rolling_mean_panda/blob/master/apple_stock_price_smoothing_animation.gif?raw=true" width="300">
-
+[A Pandas based animation of a changing rolling mean <img src="https://github.com/phoughton/rolling_mean_panda/blob/master/apple_stock_price_smoothing_animation.gif?raw=true" width="500">](https://github.com/phoughton/rolling_mean_panda)
 <!--
 **phoughton/phoughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
