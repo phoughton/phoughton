@@ -1,6 +1,6 @@
 ## Hello & Welcome
 
-If you made it here then you are probably, at least a bit, technical. That's Great! I'm a geek with and when I'm not being paid to write, tinker with or test software, you'll probably still find me tinkering with some new tech.
+If you made it here then you are probably, at least a bit, technical. That's Great! I'm a geek and when I'm not being paid to write, tinker with or test software, you'll probably still find me tinkering with some new tech.
 
 Here's a few of my more interesting bits of code:
 
