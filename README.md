@@ -12,8 +12,6 @@ Here's a few of my more interesting bits of code:
 
 [A card game (Cribbage) scoring API & ChatHPT 4 plugin <img src="https://github.com/phoughton/cribbage_server/blob/master/static/chatgpt4_crib_hand.png?raw=true" width="500">](https://github.com/phoughton/cribbage_server)
 
-
-static/chatgpt4_crib_hand.png
 <!--
 **phoughton/phoughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
