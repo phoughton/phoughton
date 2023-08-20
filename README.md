@@ -7,8 +7,9 @@ Here's a few of my more interesting bits of code:
 <table>
 <tr>
 <td>
-[How to use Pandas to animate the effect of changing the rolling mean window,
-using the Apple stock price](https://github.com/phoughton/rolling_mean_panda)
+
+[How to use Pandas to animate the effect of changing the rolling mean window, using the Apple stock price](https://github.com/phoughton/rolling_mean_panda)
+
 </TD>
 <TD>
 
@@ -31,24 +32,24 @@ using the Apple stock price](https://github.com/phoughton/rolling_mean_panda)
 <TR>
 <TD>
 
-[How to use my Python package to detect mistakes in Scientific papers (Inc. a Google Colab Notebook)](https://github.com/phoughton/grim_test)
+[How score a card game (Cribbage) using my API & or my Open AI ChatGPT 4 plugin](https://github.com/phoughton/cribbage_server)
 
 </TD>
 <TD>
 
-[How score a card game (Cribbage) using my API & or my Open AI ChatGPT 4 plugin](https://github.com/phoughton/cribbage_server)
+[How to use my Python package to detect mistakes in Scientific papers (Inc. a Google Colab Notebook)](https://github.com/phoughton/grim_test)
 
 </TD>
 </TR>
 <TR>
 <TD>
 
-[<img src="https://github.com/phoughton/grim_test/blob/master/docs/example_rounding_distribution.png?raw=true" width="400">](https://github.com/phoughton/grim_test)
+[<img src="https://github.com/phoughton/cribbage_server/blob/master/static/chatgpt4_crib_hand.png?raw=true" width="400">](https://github.com/phoughton/cribbage_server)
 
 </TD>
 <TD>
-
-[<img src="https://github.com/phoughton/cribbage_server/blob/master/static/chatgpt4_crib_hand.png?raw=true" width="400">](https://github.com/phoughton/cribbage_server)
+  
+[<img src="https://github.com/phoughton/grim_test/blob/master/docs/example_rounding_distribution.png?raw=true" width="400">](https://github.com/phoughton/grim_test)
 
 </TD>
 </TR>
