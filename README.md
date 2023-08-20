@@ -8,7 +8,7 @@ Here's a few of my more interesting bits of code:
 
 [Using Azure Cognitive Services to detect bugs in your system - via anomalies in the data <img src="https://github.com/phoughton/anomal/blob/main/docs/example.png?raw=true" width="500">](https://github.com/phoughton/anomal/tree/main)
 
-[How to use my PyPI Python package to detect anomalies in averages quoted in Scientific papers (Includes a Google Colab Notebook to get you going)](https://github.com/phoughton/grim_test)
+[How to use my PyPI Python package to detect anomalies in averages quoted in Scientific papers (Includes a Google Colab Notebook to get you going <img src="https://github.com/phoughton/grim_test/blob/main/docs/example_rounding_distribution.png?raw=true" width="500"> )](https://github.com/phoughton/grim_test)
 
 
 <!--
