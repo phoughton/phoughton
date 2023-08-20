@@ -4,13 +4,36 @@ If you made it here then you are probably, at least a bit, technical. That's Gre
 
 Here's a few of my more interesting bits of code:
 
-[A Pandas based animation of a changing rolling mean <img src="https://github.com/phoughton/rolling_mean_panda/blob/master/apple_stock_price_smoothing_animation.gif?raw=true" width="500">](https://github.com/phoughton/rolling_mean_panda)
+<table>
+<tr>
+<td>
 
-[Using Azure Cognitive Services to detect bugs in your system - via anomalies in the data <img src="https://github.com/phoughton/anomal/blob/main/docs/example.png?raw=true" width="500">](https://github.com/phoughton/anomal/tree/main)
+[A Pandas based animation of a changing rolling mean 
+<img src="https://github.com/phoughton/rolling_mean_panda/blob/master/apple_stock_price_smoothing_animation.gif?raw=true" width="440">](https://github.com/phoughton/rolling_mean_panda)
 
-[How to use my Python package to detect mistakes (?) in averages quoted in Scientific papers (Inc. a Google Colab Notebook) <img src="https://github.com/phoughton/grim_test/blob/master/docs/example_rounding_distribution.png?raw=true" width="500">](https://github.com/phoughton/grim_test)
+</TD>
+<TD>
 
-[A card game (Cribbage) scoring API & ChatHPT 4 plugin <img src="https://github.com/phoughton/cribbage_server/blob/master/static/chatgpt4_crib_hand.png?raw=true" width="500">](https://github.com/phoughton/cribbage_server)
+[Using Azure Cognitive Services to detect bugs in your system - via anomalies in the data 
+<img src="https://github.com/phoughton/anomal/blob/main/docs/example.png?raw=true" width="440">](https://github.com/phoughton/anomal/tree/main)
+
+</TD>
+</TR>
+<TR>
+<TD>
+
+[How to use my Python package to detect mistakes in Scientific papers (Inc. a Google Colab Notebook) 
+<img src="https://github.com/phoughton/grim_test/blob/master/docs/example_rounding_distribution.png?raw=true" width="440">](https://github.com/phoughton/grim_test)
+  
+</TD>
+<TD>
+
+[A card game (Cribbage) scoring API & ChatHPT 4 plugin 
+<img src="https://github.com/phoughton/cribbage_server/blob/master/static/chatgpt4_crib_hand.png?raw=true" width="440">](https://github.com/phoughton/cribbage_server)
+
+</TD>
+</TR>
+</TABLE>
 
 <!--
 **phoughton/phoughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
