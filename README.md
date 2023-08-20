@@ -20,12 +20,12 @@ Here's a few of my more interesting bits of code:
 <tr>
 <td>
 
-[<img src="https://github.com/phoughton/rolling_mean_panda/blob/master/apple_stock_price_smoothing_animation.gif?raw=true" width="440">](https://github.com/phoughton/rolling_mean_panda)
+[<img src="https://github.com/phoughton/rolling_mean_panda/blob/master/apple_stock_price_smoothing_animation.gif?raw=true" width="350">](https://github.com/phoughton/rolling_mean_panda)
 
 </TD>
 <TD>
 
-[<img src="https://github.com/phoughton/anomal/blob/main/docs/example.png?raw=true" width="440">](https://github.com/phoughton/anomal/tree/main)
+[<img src="https://github.com/phoughton/anomal/blob/main/docs/example.png?raw=true" width="350">](https://github.com/phoughton/anomal/tree/main)
 
 </TD>
 </TR>
@@ -44,17 +44,15 @@ Here's a few of my more interesting bits of code:
 <TR>
 <TD>
 
-[<img src="https://github.com/phoughton/grim_test/blob/master/docs/example_rounding_distribution.png?raw=true" width="440">](https://github.com/phoughton/grim_test)
+[<img src="https://github.com/phoughton/grim_test/blob/master/docs/example_rounding_distribution.png?raw=true" width="350">](https://github.com/phoughton/grim_test)
   
 </TD>
 <TD>
 
-[<img src="https://github.com/phoughton/cribbage_server/blob/master/static/chatgpt4_crib_hand.png?raw=true" width="440">](https://github.com/phoughton/cribbage_server)
+[<img src="https://github.com/phoughton/cribbage_server/blob/master/static/chatgpt4_crib_hand.png?raw=true" width="350">](https://github.com/phoughton/cribbage_server)
 
 </TD>
 </TR>
-
-
 
 </TABLE>
 
