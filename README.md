@@ -8,12 +8,12 @@ Here's a few of my more interesting bits of code:
 <tr>
 <td>
 
-[A Pandas based animation of a changing rolling mean](https://github.com/phoughton/rolling_mean_panda)
+[How to use Pandas to animate the effect of changing the rolling mean window - using the Apple stock price](https://github.com/phoughton/rolling_mean_panda)
 
 </TD>
 <TD>
 
-[Using Azure Cognitive Services to detect bugs in your system - via anomalies in the data](https://github.com/phoughton/anomal/tree/main)
+[How to use Azure Cognitive Services to detect bugs in your system - via anomalies in the data](https://github.com/phoughton/anomal/tree/main)
 
 </TD>
 </TR>
@@ -37,7 +37,7 @@ Here's a few of my more interesting bits of code:
 </TD>
 <TD>
 
-[A card game (Cribbage) scoring API & ChatHPT 4 plugin](https://github.com/phoughton/cribbage_server)
+[How score a card game (Cribbage) using my API & or my Open AI ChatGPT 4 plugin](https://github.com/phoughton/cribbage_server)
 
 </TD>
 </TR>
