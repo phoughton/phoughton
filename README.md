@@ -10,7 +10,10 @@ Here's a few of my more interesting bits of code:
 
 [How to use my Python package to detect mistakes (?) in averages quoted in Scientific papers (Inc. a Google Colab Notebook) <img src="https://github.com/phoughton/grim_test/blob/master/docs/example_rounding_distribution.png?raw=true" width="500">](https://github.com/phoughton/grim_test)
 
+[A card game (Cribbage) scoring API & ChatHPT 4 plugin <img src="https://github.com/phoughton/cribbage_server/blob/master/static/chatgpt4_crib_hand.png?raw=true" width="500">](https://github.com/phoughton/cribbage_server)
 
+
+static/chatgpt4_crib_hand.png
 <!--
 **phoughton/phoughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
