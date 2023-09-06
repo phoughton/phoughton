@@ -1,14 +1,14 @@
 ## Hello & Welcome
 
-If you made it here then you are probably, at least a bit, technical. That's Great! I'm a geek and when I'm not being paid to write, tinker with or test software, you'll probably still find me tinkering with some new tech.
+If you made it here then you are probably, at least a bit, technical. That's Great! I'm a geek and when I'm not being paid to write, tinker with or test software, you'll probably still find me tinkering with some new (or old) tech.
 
-Here's a few of my more interesting bits of code:
+Here are a few of my more interesting bits of code:
 
 <table>
 <tr>
 <td>
 
-[How to use Pandas to animate the effect of changing the rolling mean window, using the Apple stock price](https://github.com/phoughton/rolling_mean_panda)
+[How to use Pandas to animate changing the rolling mean window, using the Apple stock price](https://github.com/phoughton/rolling_mean_panda)
 
 </TD>
 <TD>
