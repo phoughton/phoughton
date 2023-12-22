@@ -32,7 +32,7 @@ Here are a few of my more interesting bits of code:
 <TR>
 <TD>
 
-[How score a card game (Cribbage) using my API & or my Open AI ChatGPT 4 plugin](https://github.com/phoughton/cribbage_server)
+[How score a card game (Cribbage) using my API & or my Open AI ChatGPT 4 custom ChatGPT (& plugin)](https://github.com/phoughton/cribbage_server)
 
 </TD>
 <TD>
