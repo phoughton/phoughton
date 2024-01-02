@@ -29,6 +29,35 @@ Here are a few of my more interesting bits of code:
 
 </TD>
 </TR>
+
+
+<tr>
+<td>
+
+[How to use a Vector DB (ChromaDB) & GPT4 API to implement an AI assisted search of the collected works of CHarles Dickens](https://github.com/phoughton/What_the_dickens_RAG))
+
+</TD>
+<TD>
+
+[Examples of how to use the GPT4 API to do Software related tasks like explain whats tests are doing without cumbersome frameworks like Cucumber](https://github.com/phoughton/oai_examples)
+
+</TD>
+</TR>
+<tr>
+<td>
+
+[<img src="https://github.com/phoughton/What_the_dickens_RAG/blob/main/docs/Slides_talk_vector_db_gpt4_dickens.png?raw=true" width="400">](https://github.com/phoughton/rolling_mean_panda)
+
+</TD>
+<TD>
+  
+[<img src="https://github.com/phoughton/oai_examples/blob/main/docs/2023JUN13_gpt4_for_tests.png?raw=true" width="400">](https://github.com/phoughton/oai_examples/tree/main)
+
+</TD>
+</TR>
+
+
+
 <TR>
 <TD>
 
