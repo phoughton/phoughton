@@ -2,7 +2,11 @@
 
 If you made it here then you are probably, at least a bit, technical. That's Great! I'm a geek and when I'm not being paid to write, tinker with or test software, you'll probably still find me tinkering with some new (or old) tech.
 
-Here are a few of my more interesting bits of code:
+I'm a consultant & incurable python hacker who started out as a Java developer back in the 1990s, and has done Software Development, Automation, Development in Test, Architecture in companies large and small. 
+
+I have had the opportunity to work in fields from Media (The Telegraph, BBC & Financial Times), via Oil and Gas (BP) to Banking & International High Value Payments (NatWest, BNP Paribas & Lloyds Banking Group) as well as start ups.
+
+Sadly most of my work is internal to my clients but here are a few of my more interesting bits of code from my side projects:
 
 <table>
 <tr>
