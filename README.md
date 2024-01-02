@@ -46,7 +46,7 @@ Here are a few of my more interesting bits of code:
 <tr>
 <td>
 
-[<img src="https://github.com/phoughton/What_the_dickens_RAG/blob/main/docs/Slides_talk_vector_db_gpt4_dickens.png?raw=true" width="400">](https://github.com/phoughton/rolling_mean_panda)
+[<img src="https://github.com/phoughton/What_the_dickens_RAG/blob/main/docs/Slides_talk_vector_db_gpt4_dickens.png?raw=true" width="400">](https://github.com/phoughton/What_the_dickens_RAG)
 
 </TD>
 <TD>
