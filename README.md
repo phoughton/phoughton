@@ -38,7 +38,7 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 <tr>
 <td>
 
-[How to use a Vector DB (ChromaDB) & GPT4 API to implement an AI assisted search of the collected works of CHarles Dickens](https://github.com/phoughton/What_the_dickens_RAG))
+[How to use a Vector DB (ChromaDB) & GPT4 API to implement an AI assisted search of the collected works of Charles Dickens](https://github.com/phoughton/What_the_dickens_RAG))
 
 </TD>
 <TD>
