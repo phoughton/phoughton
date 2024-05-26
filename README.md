@@ -60,12 +60,12 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 </TD>
 </TR>
 
-[Create SWIFT MX payment messages that use ISO20022 standards using my python package: pyiso20022](https://github.com/phoughton/pyiso20022)
 
 
 <TR>
 <TD>
 
+[Create SWIFT MX payment messages that use ISO20022 standards using my python package: pyiso20022](https://github.com/phoughton/pyiso20022)
 
 </TD>
 <TD>
@@ -77,7 +77,7 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 <TR>
 <TD>
 
-[<img src="https://github.com/phoughton/cribbage_server/blob/master/static/chatgpt4_crib_hand.png?raw=true" width="400">](https://github.com/phoughton/cribbage_server)
+[<img src="https://github.com/phoughton/pyiso20022/blob/master/static/pyiso20022Logo.png?raw=true" width="400">](https://github.com/phoughton/pyiso20022)
 
 </TD>
 <TD>
