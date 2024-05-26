@@ -77,7 +77,7 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 <TR>
 <TD>
 
-[<img src="https://github.com/phoughton/pyiso20022/blob/master/static/logo_pyiso20022.png?raw=true" width="400">](https://github.com/phoughton/pyiso20022)
+[<img src="https://github.com/phoughton/pyiso20022/blob/master/docs/logo_pyiso20022.png?raw=true" width="400">](https://github.com/phoughton/pyiso20022)
 
 </TD>
 <TD>
