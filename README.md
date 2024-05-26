@@ -60,12 +60,12 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 </TD>
 </TR>
 
+[Create SWIFT MX payment messages that use ISO20022 standards using my python package: pyiso20022](https://github.com/phoughton/pyiso20022)
 
 
 <TR>
 <TD>
 
-[How score a card game (Cribbage) using my API & or my Open AI ChatGPT 4 custom ChatGPT (& plugin)](https://github.com/phoughton/cribbage_server)
 
 </TD>
 <TD>
