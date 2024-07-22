@@ -17,7 +17,7 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 </TD>
 <TD>
 
-[How to use Azure Cognitive Services to detect bugs in your system - via anomalies in the data](https://github.com/phoughton/anomal/tree/main)
+[How to visualise data, to highlight trends and problems](https://github.com/phoughton/sl_gen_election)
 
 </TD>
 </TR>
@@ -29,7 +29,7 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 </TD>
 <TD>
   
-[<img src="https://github.com/phoughton/anomal/blob/main/docs/example.png?raw=true" width="400">](https://github.com/phoughton/anomal/tree/main)
+[<img src="https://github.com/phoughton/phoughton/blob/main/docs/streamlit_uk_election_results.png?raw=true" width="400">](https://github.com/phoughton/sl_gen_election)
 
 </TD>
 </TR>
