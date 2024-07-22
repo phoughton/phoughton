@@ -12,12 +12,12 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 <tr>
 <td>
 
-[How to use Pandas to animate changing the rolling mean window, using the Apple stock price](https://github.com/phoughton/rolling_mean_panda)
+[Use Pandas to animate changing the rolling mean window, using the Apple stock price](https://github.com/phoughton/rolling_mean_panda)
 
 </TD>
 <TD>
 
-[How to visualise data, to highlight trends and problems](https://github.com/phoughton/sl_gen_election)
+[Visualise data, to highlight trends and problems](https://github.com/phoughton/sl_gen_election)
 
 </TD>
 </TR>
@@ -38,12 +38,12 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 <tr>
 <td>
 
-[How to use a Vector DB (ChromaDB) & GPT4 API to implement an AI assisted search of the collected works of Charles Dickens](https://github.com/phoughton/What_the_dickens_RAG))
+[Use a Vector DB (ChromaDB) & GPT4 API to implement an AI assisted search of the collected works of Charles Dickens](https://github.com/phoughton/What_the_dickens_RAG))
 
 </TD>
 <TD>
 
-[Examples of how to use the GPT4 API to do Software related tasks like explain whats tests are doing without cumbersome frameworks like Cucumber](https://github.com/phoughton/oai_examples)
+[Use the GPT4 API to do Software related tasks like explain whats tests are doing without cumbersome frameworks like Cucumber](https://github.com/phoughton/oai_examples)
 
 </TD>
 </TR>
@@ -70,7 +70,7 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 </TD>
 <TD>
 
-[How to use my Python package to detect mistakes in Scientific papers (Inc. a Google Colab Notebook)](https://github.com/phoughton/grim_test)
+[Use my Python package to detect mistakes in Scientific papers (Inc. a Google Colab Notebook)](https://github.com/phoughton/grim_test)
 
 </TD>
 </TR>
@@ -87,18 +87,3 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 </TD>
 </TR>
 </TABLE>
-
-<!--
-**phoughton/phoughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
