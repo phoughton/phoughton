@@ -38,7 +38,7 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 <tr>
 <td>
 
-[<img src="https://github.com/phoughton/phoughton/blob/main/docs/cbprstarhero.jpg?raw=true" width="400">](https://www.cbprstar.com/)
+[<img src="https://raw.githubusercontent.com/phoughton/phoughton/main/docs/cbprstarhero.jpg" width="400">](https://www.cbprstar.com/)
 
 </TD>
 <TD>
