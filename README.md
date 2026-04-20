@@ -1,12 +1,14 @@
 ## Hello & Welcome
 
-If you made it here then you are probably, at least a bit, technical. That's Great! I'm a geek and when I'm not being paid to write, tinker with or test software, you'll probably still find me tinkering with some new (or old) tech.
+If you’ve found your way here, there’s a fair chance you enjoy understanding how systems work — and occasionally why they don’t. So do I.
 
-I'm a consultant & incurable python hacker who started out as a Java developer back in the 1990s, and has done Software Development, Automation, Development in Test, Architecture in companies large and small. 
+I’m a consultant and Python-first engineer who started out in Java in the 1990s. Since then I’ve worked across software development, automation, test engineering, and architecture in organisations both large and small.
 
-I have had the opportunity to work in fields from Media (_The Telegraph, BBC, Sky & Financial Times_), via Oil and Gas (_BP_) to Banking & International High Value Payments (_NatWest, BNP Paribas & Lloyds Banking Group & UNIFITS_) as well as start ups.
+My background spans media, oil and gas, banking, and high-value international payments, as well as smaller product-focused environments. Over time, that has led me towards a style of engineering that combines solid software fundamentals with pragmatic use of AI — especially where it helps people interrogate complex systems, codebases, documents, and operational workflows more effectively.
 
-Sadly most of my work is internal to my clients but here are a few of my more interesting bits of code from my side projects:
+Most of my client work is necessarily internal, but the public projects here give a flavour of the things I enjoy building: Python tools, data visualisation, payment and ISO 20022 utilities, test-focused software, and a few carefully chosen AI-assisted experiments.
+
+A few examples below.
 
 ---
 
