@@ -10,7 +10,7 @@ Sadly most of my work is internal to my clients but here are a few of my more in
 
 ---
 
-### [Visit cbprstar.com](https://www.cbprstar.com/)
+### [Use CBPR Star to validate SWIFT CBPR+ messages](https://www.cbprstar.com/)
 
 [![cbprstar hero](https://raw.githubusercontent.com/phoughton/phoughton/main/docs/cbprstarhero.jpg)](https://www.cbprstar.com/)
 
