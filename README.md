@@ -30,9 +30,13 @@ A few examples below.
 
 ---
 
-### [Use the GPT4 API to do Software related tasks like explain what tests are doing without cumbersome frameworks like Cucumber](https://github.com/phoughton/oai_examples)
+### [DWM: DoublWord Monitor, keep an eye on your doubleword.ai batches in VSCode.](https://marketplace.visualstudio.com/items?itemName=pete0234.dwm)
 
-[![GPT4 for tests](https://github.com/phoughton/oai_examples/blob/main/docs/2023JUN13_gpt4_for_tests.png?raw=true)](https://github.com/phoughton/oai_examples/tree/main)
+<p align="center">
+	<a href="https://marketplace.visualstudio.com/items?itemName=pete0234.dwm">
+		<img src="https://github.com/phoughton/dwm/blob/main/media/icon.png?raw=true" alt="DWM icon" width="256">
+	</a>
+</p>
 
 ---
 
