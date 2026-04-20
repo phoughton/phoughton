@@ -8,82 +8,38 @@ I have had the opportunity to work in fields from Media (_The Telegraph, BBC, Sk
 
 Sadly most of my work is internal to my clients but here are a few of my more interesting bits of code from my side projects:
 
-<table>
-<tr>
-<td>
+---
 
-[Use Pandas to animate changing the rolling mean window, using the Apple stock price](https://github.com/phoughton/rolling_mean_panda)
+### [Visit cbprstar.com](https://www.cbprstar.com/)
 
-</TD>
-<TD>
+[![cbprstar hero](https://raw.githubusercontent.com/phoughton/phoughton/main/docs/cbprstarhero.jpg)](https://www.cbprstar.com/)
 
-[Visualise data, to highlight trends and problems](https://github.com/phoughton/sl_gen_election)
+---
 
-</TD>
-</TR>
-<tr>
-<td>
+### [Use Pandas to animate changing the rolling mean window, using the Apple stock price](https://github.com/phoughton/rolling_mean_panda)
 
-[<img src="https://github.com/phoughton/rolling_mean_panda/blob/master/apple_stock_price_smoothing_animation.gif?raw=true" width="400">](https://github.com/phoughton/rolling_mean_panda)
+[![Rolling mean animation](https://github.com/phoughton/rolling_mean_panda/blob/master/apple_stock_price_smoothing_animation.gif?raw=true)](https://github.com/phoughton/rolling_mean_panda)
 
-</TD>
-<TD>
-  
-[<img src="https://github.com/phoughton/phoughton/blob/main/docs/streamlit_uk_election_results.png?raw=true" width="400">](https://github.com/phoughton/sl_gen_election)
+---
 
-</TD>
-</TR>
+### [Visualise data, to highlight trends and problems](https://github.com/phoughton/sl_gen_election)
 
+[![UK election results](https://github.com/phoughton/phoughton/blob/main/docs/streamlit_uk_election_results.png?raw=true)](https://github.com/phoughton/sl_gen_election)
 
-<tr>
-<td>
+---
 
-[<img src="https://raw.githubusercontent.com/phoughton/phoughton/main/docs/cbprstarhero.jpg" width="400">](https://www.cbprstar.com/)
+### [Use the GPT4 API to do Software related tasks like explain what tests are doing without cumbersome frameworks like Cucumber](https://github.com/phoughton/oai_examples)
 
-</TD>
-<TD>
+[![GPT4 for tests](https://github.com/phoughton/oai_examples/blob/main/docs/2023JUN13_gpt4_for_tests.png?raw=true)](https://github.com/phoughton/oai_examples/tree/main)
 
-[Use the GPT4 API to do Software related tasks like explain whats tests are doing without cumbersome frameworks like Cucumber](https://github.com/phoughton/oai_examples)
+---
 
-</TD>
-</TR>
-<tr>
-<td>
+### [Create SWIFT MX payment messages that use ISO20022 standards using my python package: pyiso20022](https://github.com/phoughton/pyiso20022)
 
-[Visit cbprstar.com](https://www.cbprstar.com/)
+[![pyiso20022 logo](https://github.com/phoughton/pyiso20022/blob/main/docs/logo_pyiso20022.png?raw=true)](https://github.com/phoughton/pyiso20022)
 
-</TD>
-<TD>
-  
-[<img src="https://github.com/phoughton/oai_examples/blob/main/docs/2023JUN13_gpt4_for_tests.png?raw=true" width="400">](https://github.com/phoughton/oai_examples/tree/main)
+---
 
-</TD>
-</TR>
+### [Use my Python package to detect mistakes in Scientific papers (Inc. a Google Colab Notebook)](https://github.com/phoughton/grim_test)
 
-
-
-<TR>
-<TD>
-
-[Create SWIFT MX payment messages that use ISO20022 standards using my python package: pyiso20022](https://github.com/phoughton/pyiso20022)
-
-</TD>
-<TD>
-
-[Use my Python package to detect mistakes in Scientific papers (Inc. a Google Colab Notebook)](https://github.com/phoughton/grim_test)
-
-</TD>
-</TR>
-<TR>
-<TD>
-
-[<img src="https://github.com/phoughton/pyiso20022/blob/main/docs/logo_pyiso20022.png?raw=true" width="400">](https://github.com/phoughton/pyiso20022)
-
-</TD>
-<TD>
-  
-[<img src="https://github.com/phoughton/grim_test/blob/master/docs/example_rounding_distribution.png?raw=true" width="400">](https://github.com/phoughton/grim_test)
-
-</TD>
-</TR>
-</TABLE>
+[![grim test example](https://github.com/phoughton/grim_test/blob/master/docs/example_rounding_distribution.png?raw=true)](https://github.com/phoughton/grim_test)
