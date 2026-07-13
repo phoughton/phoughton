@@ -11,7 +11,7 @@ Most of my client work is necessarily internal, but the public projects here giv
 A few examples below.
 
 ### [Visualise eval results](https://github.com/phoughton/dwevals)
-[![Open Weight and Claude evals](https://github.com/phoughton/phoughton/blob/main/docs/eval_screen_grab?raw=true)](https://github.com/phoughton/dwevals)
+[![Open Weight and Claude evals](https://github.com/phoughton/phoughton/blob/main/docs/eval_screen_grab.png?raw=true)](https://github.com/phoughton/dwevals)
 
 ---
 
