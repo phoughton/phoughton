@@ -2,7 +2,7 @@
 
 If you’ve found your way here, there’s a fair chance you enjoy understanding how systems work — and occasionally why they don’t. So do I.
 
-I’m a consultant and Python-first engineer who started out in Java in the 1990s. Since then I’ve worked across software development, automation, test engineering, and architecture in organisations both large and small.
+I’m a consultant engineer who started out in Java in the 1990s. Since then I’ve worked across software development, automation, test engineering, and architecture in organisations both large and small.
 
 My background spans media, oil and gas, banking, and high-value international payments, as well as smaller product-focused environments. Over time, that has led me towards a style of engineering that combines solid software fundamentals with pragmatic use of AI — especially where it helps people interrogate complex systems, codebases, documents, and operational workflows more effectively.
 
